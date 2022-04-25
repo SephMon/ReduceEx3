@@ -1,0 +1,2 @@
+# ReduceEx3
+ReduceMethod
